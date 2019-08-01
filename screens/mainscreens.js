@@ -4,6 +4,7 @@ import {
     StyleSheet,
      Text,
       View,
+      KeyboardAvoidingView,
     } from 'react-native';
     import { fetchLocationId, fetchWeather } from '../utils/api';
     import SearchInput from './SearchInput';
@@ -11,7 +12,7 @@ import {
     import { identifier } from '@babel/types';
 
 //import console = require('console');
-
+console.disableYellowBox = true;
 export default class mainscreens extends Component {
     state = {
         loading: false,
@@ -25,6 +26,8 @@ export default class mainscreens extends Component {
     componentDidMount(){
         this.handleUpdateLocation('Karachi');
     }
+
+    
 
     handleUpdateLocation = async city => {
         if (!city) return;
@@ -57,7 +60,6 @@ export default class mainscreens extends Component {
         console.log("error: ",error);
 
         return (
-//          <ImageBackground source={require('../assets/backimg.jpg')} style={{width: '100%', height: '100%'}}>
             <View style={styles.container}>
             <ActivityIndicator animating={loading} color="white" size="large" />
 
@@ -70,7 +72,7 @@ export default class mainscreens extends Component {
                 )}
 
                 {!error && (
-                  <View>
+                  <View >
                     <Text style={[styles.largeText, styles.textStyle]}>
                       {location}
                     </Text>
@@ -91,7 +93,6 @@ export default class mainscreens extends Component {
                 )}
 
             </View>
-       //    </ImageBackground>
         );
     }
 
