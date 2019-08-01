@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c59241b8cf44f2f419327ef5217daee5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6119f765d961c79cac4f55b130100f3c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\ed4f6f4d257555cd3a5012223c40bb5a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6afbe1904506cf5f31b56dab44acd647\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c05cbfd97711ca2871dade1f0c9fc7c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\aae6eb817e2debbf4397f3664dff3c18\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\41738e3f408d21a1f34223e3c96cef3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6f2ab262594893e8dbe4b9565970c60d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\d03c7454041b23779a5ed3459ed5fbf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\4ef5430ee3d27f2e84cb45ceba4b56ed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\2bd5ecfe94fb89f305174900c090ba6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\8dcc8a5f6681eec8bf1e444896b5b5a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\82e4e78f388b38f0955ee27c5d65d00f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\11e6abafaee7ddfb494b6b9276327e4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\5f7bf06e2b8c8bf8d52a33a15b2d367d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\44f407b10090fa780ae7249e5585e004\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\43214362a8fc74fe9240a7a2719ab081\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6a9cb1ba227ed0f4e423a03d978fd6f7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\46648ab5824a48394f24094a43dab20e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\9ceb0459c04efa6b5e682da22e0fa884\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\49fa88b2e1dc90cea86bde4bf0ea2498\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\7c5fb68af4852570113491206606d0a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\ca1a5e5f845bcb9e719e056ecea8b972\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\fb9bbcf6e01bd6407934a0fdf400e3a6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\33509e08103718af19bbf137b7ba48d6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\1b9c62fd11279f157566683e3bacd280\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\10c6812c15719b5eb24d6bc6ae6b7b65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c7b60673d0da3e31e718744f5f9ad8ae\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\fbc612b25cfe5c47dcdeef108ef5ba12\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\394f71dbd9b75ab51356b20edcb27fdc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\8138fbd9bd5f32651995059529797e82\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\49860a5d08fe4ee696da4948a298a805\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\61dfb2d95d8e5b313b2fb25b20862b96\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\cb107a20154e721f9925b2672c9bf50c\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:2:3-27
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c59241b8cf44f2f419327ef5217daee5\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c59241b8cf44f2f419327ef5217daee5\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\44f407b10090fa780ae7249e5585e004\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\44f407b10090fa780ae7249e5585e004\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\43214362a8fc74fe9240a7a2719ab081\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\43214362a8fc74fe9240a7a2719ab081\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\61dfb2d95d8e5b313b2fb25b20862b96\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\61dfb2d95d8e5b313b2fb25b20862b96\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\44f407b10090fa780ae7249e5585e004\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.weatherapp.MainActivity
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c59241b8cf44f2f419327ef5217daee5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.9] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c59241b8cf44f2f419327ef5217daee5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6119f765d961c79cac4f55b130100f3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6119f765d961c79cac4f55b130100f3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\ed4f6f4d257555cd3a5012223c40bb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\ed4f6f4d257555cd3a5012223c40bb5a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6afbe1904506cf5f31b56dab44acd647\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6afbe1904506cf5f31b56dab44acd647\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c05cbfd97711ca2871dade1f0c9fc7c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c05cbfd97711ca2871dade1f0c9fc7c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\aae6eb817e2debbf4397f3664dff3c18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\aae6eb817e2debbf4397f3664dff3c18\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\41738e3f408d21a1f34223e3c96cef3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\41738e3f408d21a1f34223e3c96cef3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6f2ab262594893e8dbe4b9565970c60d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6f2ab262594893e8dbe4b9565970c60d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\d03c7454041b23779a5ed3459ed5fbf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\d03c7454041b23779a5ed3459ed5fbf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\4ef5430ee3d27f2e84cb45ceba4b56ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\4ef5430ee3d27f2e84cb45ceba4b56ed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\2bd5ecfe94fb89f305174900c090ba6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\2bd5ecfe94fb89f305174900c090ba6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\8dcc8a5f6681eec8bf1e444896b5b5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\8dcc8a5f6681eec8bf1e444896b5b5a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\82e4e78f388b38f0955ee27c5d65d00f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\82e4e78f388b38f0955ee27c5d65d00f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\11e6abafaee7ddfb494b6b9276327e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\11e6abafaee7ddfb494b6b9276327e4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\5f7bf06e2b8c8bf8d52a33a15b2d367d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\5f7bf06e2b8c8bf8d52a33a15b2d367d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\44f407b10090fa780ae7249e5585e004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\44f407b10090fa780ae7249e5585e004\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\43214362a8fc74fe9240a7a2719ab081\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\43214362a8fc74fe9240a7a2719ab081\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6a9cb1ba227ed0f4e423a03d978fd6f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\6a9cb1ba227ed0f4e423a03d978fd6f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\46648ab5824a48394f24094a43dab20e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\46648ab5824a48394f24094a43dab20e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\9ceb0459c04efa6b5e682da22e0fa884\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\9ceb0459c04efa6b5e682da22e0fa884\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\49fa88b2e1dc90cea86bde4bf0ea2498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\49fa88b2e1dc90cea86bde4bf0ea2498\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\7c5fb68af4852570113491206606d0a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\7c5fb68af4852570113491206606d0a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\ca1a5e5f845bcb9e719e056ecea8b972\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\ca1a5e5f845bcb9e719e056ecea8b972\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\fb9bbcf6e01bd6407934a0fdf400e3a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\fb9bbcf6e01bd6407934a0fdf400e3a6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\33509e08103718af19bbf137b7ba48d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\33509e08103718af19bbf137b7ba48d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\1b9c62fd11279f157566683e3bacd280\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\1b9c62fd11279f157566683e3bacd280\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\10c6812c15719b5eb24d6bc6ae6b7b65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\10c6812c15719b5eb24d6bc6ae6b7b65\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c7b60673d0da3e31e718744f5f9ad8ae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\c7b60673d0da3e31e718744f5f9ad8ae\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\fbc612b25cfe5c47dcdeef108ef5ba12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\fbc612b25cfe5c47dcdeef108ef5ba12\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\394f71dbd9b75ab51356b20edcb27fdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\394f71dbd9b75ab51356b20edcb27fdc\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\8138fbd9bd5f32651995059529797e82\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\8138fbd9bd5f32651995059529797e82\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\49860a5d08fe4ee696da4948a298a805\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\49860a5d08fe4ee696da4948a298a805\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\61dfb2d95d8e5b313b2fb25b20862b96\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\61dfb2d95d8e5b313b2fb25b20862b96\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\cb107a20154e721f9925b2672c9bf50c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Faran\.gradle\caches\transforms-2\files-2.1\cb107a20154e721f9925b2672c9bf50c\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\Faran\Desktop\myapp\weatherapp\android\app\src\debug\AndroidManifest.xml:5:22-75

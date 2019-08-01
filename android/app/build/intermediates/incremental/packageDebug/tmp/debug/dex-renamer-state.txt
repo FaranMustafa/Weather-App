@@ -1,0 +1,4 @@
+#Thu Jun 13 14:39:32 PKT 2019
+base.0=C\:\\Users\\Faran\\Desktop\\myapp\\weatherapp\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
